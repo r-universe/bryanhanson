@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ChemoSpec",
+    "url": "https://github.com/bryanhanson/ChemoSpec",
+    "via": ["ChemoSpec2D", "ChemoSpecUtils"],
+    "from": "ChemoSpec2D"
+  },
+  {
+    "package": "ChemoSpecUtils",
+    "url": "https://github.com/bryanhanson/ChemoSpecUtils",
+    "via": ["ChemoSpec2D"],
+    "from": "ChemoSpec2D"
+  }
+]
