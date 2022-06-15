@@ -1,0 +1,42 @@
+[
+  {
+    "package": "ChemoSpec",
+    "oncran": true
+  },
+  {
+    "package": "ChemoSpec2D",
+    "oncran": true
+  },
+  {
+    "package": "ChemoSpecUtils",
+    "oncran": true
+  },
+  {
+    "package": "exCon",
+    "oncran": true
+  },
+  {
+    "package": "HiveR",
+    "oncran": true
+  },
+  {
+    "package": "LearnPCA",
+    "oncran": true
+  },
+  {
+    "package": "LindenmayeR",
+    "oncran": true
+  },
+  {
+    "package": "readJDX",
+    "oncran": true
+  },
+  {
+    "package": "roxut",
+    "oncran": true
+  },
+  {
+    "package": "SpecHelpers",
+    "oncran": true
+  }
+]
