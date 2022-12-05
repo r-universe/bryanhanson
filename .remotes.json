@@ -6,18 +6,6 @@
     "from": "ChemoSpec2D"
   },
   {
-    "package": "ChemoSpec",
-    "url": "https://github.com/bryanhanson/ChemoSpec",
-    "via": ["ChemoSpecUtils"],
-    "from": "ChemoSpecUtils"
-  },
-  {
-    "package": "ChemoSpec2D",
-    "url": "https://github.com/bryanhanson/ChemoSpec2D",
-    "via": ["ChemoSpecUtils"],
-    "from": "ChemoSpecUtils"
-  },
-  {
     "package": "ChemoSpecUtils",
     "url": "https://github.com/bryanhanson/ChemoSpecUtils",
     "via": ["ChemoSpec2D"],
