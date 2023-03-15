@@ -23,6 +23,11 @@
 	url = https://github.com/bryanhanson/excon
 	shallow = true
 	registered = true
+[submodule "FuncMap"]
+	path = FuncMap
+	url = https://github.com/bryanhanson/funcmap
+	shallow = true
+	registered = true
 [submodule "HiveR"]
 	path = HiveR
 	url = https://github.com/bryanhanson/hiver

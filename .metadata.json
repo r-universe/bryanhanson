@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "FuncMap",
+    "oncran": true
+  },
+  {
     "package": "HiveR",
     "oncran": true
   },
