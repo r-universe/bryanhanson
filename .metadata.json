@@ -1,10 +1,10 @@
 [
   {
-    "package": "LindenmayeR",
+    "package": "ChemoSpec",
     "oncran": true
   },
   {
-    "package": "HiveR",
+    "package": "ChemoSpec2D",
     "oncran": true
   },
   {
@@ -16,11 +16,7 @@
     "oncran": true
   },
   {
-    "package": "roxut",
-    "oncran": true
-  },
-  {
-    "package": "ChemoSpec2D",
+    "package": "HiveR",
     "oncran": true
   },
   {
@@ -28,15 +24,19 @@
     "oncran": true
   },
   {
-    "package": "SpecHelpers",
-    "oncran": true
-  },
-  {
-    "package": "ChemoSpec",
+    "package": "LindenmayeR",
     "oncran": true
   },
   {
     "package": "readJDX",
+    "oncran": true
+  },
+  {
+    "package": "roxut",
+    "oncran": true
+  },
+  {
+    "package": "SpecHelpers",
     "oncran": true
   }
 ]
