@@ -11,9 +11,6 @@
 [submodule "ChemoSpecUtils"]
 	path = ChemoSpecUtils
 	url = https://github.com/bryanhanson/chemospecutils
-[submodule "exCon"]
-	path = exCon
-	url = https://github.com/bryanhanson/excon
 [submodule "FuncMap"]
 	path = FuncMap
 	url = https://github.com/bryanhanson/funcmap
@@ -26,12 +23,15 @@
 [submodule "LindenmayeR"]
 	path = LindenmayeR
 	url = https://github.com/bryanhanson/lindenmayer
+[submodule "SpecHelpers"]
+	path = SpecHelpers
+	url = https://github.com/bryanhanson/spechelpers
+[submodule "exCon"]
+	path = exCon
+	url = https://github.com/bryanhanson/excon
 [submodule "readJDX"]
 	path = readJDX
 	url = https://github.com/bryanhanson/readjdx
 [submodule "roxut"]
 	path = roxut
 	url = https://github.com/bryanhanson/roxut
-[submodule "SpecHelpers"]
-	path = SpecHelpers
-	url = https://github.com/bryanhanson/spechelpers
