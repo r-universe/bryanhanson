@@ -11,9 +11,6 @@
 [submodule "ChemoSpecUtils"]
 	path = ChemoSpecUtils
 	url = https://github.com/bryanhanson/chemospecutils
-[submodule "FuncMap"]
-	path = FuncMap
-	url = https://github.com/bryanhanson/funcmap
 [submodule "HiveR"]
 	path = HiveR
 	url = https://github.com/bryanhanson/hiver
